@@ -1,0 +1,35 @@
+table{
+    background-color: rgb(236, 160, 9); 
+    border: 1px  solid black;
+    color: black;
+    height: 500px;
+    width: 500px;
+}
+table input{
+    height: 50px;
+    width: 95%;
+}
+td{
+    border: 1px solid black;
+}
+th{
+    border: 1px solid black;
+    font-weight: bolder;
+    font-size: 25px;
+}
+.r2{
+  background-color: rgb(236, 160, 9);
+  color: black;
+  margin-left: 600px;
+  height: 30px;
+  width: 90px;
+  font-weight: bolder;
+  font-size: 20px;
+}
+.f1{
+    background-color: rgb(236, 160, 9); 
+    border: 1px  solid black;
+    color: black;
+    height: 50px;
+    width: 50px;
+}
